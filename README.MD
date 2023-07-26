@@ -1,4 +1,4 @@
-### Pig Game
+# Pig Game
 
 This project (Pig Game) is a classic two-player dice game built using HTML, CSS, and JavaScript. The players take turns rolling a six-sided die by clicking the "Roll Dice" button. The objective of the game is to be the first player to reach a certain score, typically 100 points. However, players need to be careful because rolling a "1" on the die will cause them to lose all their current points for that turn!
 
